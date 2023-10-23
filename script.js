@@ -10,7 +10,7 @@ const url = 'https://open-weather13.p.rapidapi.com/city/rajkot';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'd2bcfdd816mshe7f7f31fe8416d5p1b66fcjsn299164bb3a38',
+		'X-RapidAPI-Key': '[YOUR-API_KEY]',
 		'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com'
 	}
 };
